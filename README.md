@@ -1,4 +1,4 @@
-# 🎓 Öğrenci Yönetim Sistemi
+# 🎓 Eğitim Yönetim Sistemi
 
 Windows Forms tabanlı, C# ve dataset kullanılarak geliştirilmiş kapsamlı bir öğrenci bilgi yönetim sistemi. Bu uygulama, okullar ve eğitim kurumları için öğrenci, öğretmen, ders ve sınav bilgilerini yönetmeyi kolaylaştırır.
 
